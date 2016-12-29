@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmi:id="_kkgsMBeLEd60N8ipLbB6nA" name="ClassDiagram">
+  <packagedElement xmi:type="uml:Association" xmi:id="_qU2tMM0bEeaffpQUUdKTAQ" name="Association_1" memberEnd="_qWN_IM0bEeaffpQUUdKTAQ _qc1kgM0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qc1kgM0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qWN_IM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_qkNX0M0bEeaffpQUUdKTAQ" association="_qU2tMM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qceYIM0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qcQVsM0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qc1kgM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_q-OaUM0bEeaffpQUUdKTAQ" association="_qU2tMM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qdkkUM0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qdjWMM0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qdqD4M0bEeaffpQUUdKTAQ" name="Association_3" memberEnd="_qdrSAM0bEeaffpQUUdKTAQ _qdzN0M0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qdzN0M0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qdrSAM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_q6nssM0bEeaffpQUUdKTAQ" association="_qdqD4M0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qdvjcc0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qdvjcM0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qdzN0M0bEeaffpQUUdKTAQ" name="" visibility="public" type="_qkNX0M0bEeaffpQUUdKTAQ" association="_qdqD4M0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qd0b8c0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qd0b8M0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qd24MM0bEeaffpQUUdKTAQ" name="Association_4" memberEnd="_qd4GUM0bEeaffpQUUdKTAQ _qd-M8M0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qd-M8M0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qd4GUM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_qvVpwM0bEeaffpQUUdKTAQ" association="_qd24MM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qd7wsM0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qd7JoM0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qd-M8M0bEeaffpQUUdKTAQ" name="" visibility="public" type="_q-OaUM0bEeaffpQUUdKTAQ" association="_qd24MM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qd_bEc0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qd_bEM0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qeDFcM0bEeaffpQUUdKTAQ" name="Association_5" memberEnd="_qeDsgM0bEeaffpQUUdKTAQ _qeLBQM0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qeLBQM0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qeDsgM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_rEO7sM0bEeaffpQUUdKTAQ" association="_qeDFcM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qeHW4c0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qeHW4M0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qeLBQM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_q-OaUM0bEeaffpQUUdKTAQ" association="_qeDFcM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qeMPYc0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qeMPYM0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qeP5wM0bEeaffpQUUdKTAQ" name="Association_6" memberEnd="_qeSWAM0bEeaffpQUUdKTAQ _qeXOgM0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qeXOgM0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qeSWAM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_q-OaUM0bEeaffpQUUdKTAQ" association="_qeP5wM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qeULMM0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qeTkIM0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qeXOgM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_qx4ncM0bEeaffpQUUdKTAQ" association="_qeP5wM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qea44c0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qea44M0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qedVIM0bEeaffpQUUdKTAQ" name="Association_7" memberEnd="_qed8MM0bEeaffpQUUdKTAQ _qekC0M0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qekC0M0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qed8MM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_q4oIoM0bEeaffpQUUdKTAQ" association="_qedVIM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qeg_gc0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qeg_gM0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qekC0M0bEeaffpQUUdKTAQ" name="" visibility="public" type="_qx4ncM0bEeaffpQUUdKTAQ" association="_qedVIM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qel4AM0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qelQ8M0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qeoUQM0bEeaffpQUUdKTAQ" name="Association_8" memberEnd="_qeo7UM0bEeaffpQUUdKTAQ _qevpAM0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qevpAM0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qeo7UM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_q-OaUM0bEeaffpQUUdKTAQ" association="_qeoUQM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qer-oc0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qer-oM0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qevpAM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_rHE0UM0bEeaffpQUUdKTAQ" association="_qeoUQM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qez6cM0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qezTYM0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qe1voM0bEeaffpQUUdKTAQ" name="Association_9" memberEnd="_qe2WsM0bEeaffpQUUdKTAQ _qe7PMM0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qe7PMM0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qe2WsM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_rEO7sM0bEeaffpQUUdKTAQ" association="_qe1voM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qe3k0c0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qe3k0M0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qe7PMM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_rHE0UM0bEeaffpQUUdKTAQ" association="_qe1voM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qe8dUc0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qe8dUM0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qfAHsM0bEeaffpQUUdKTAQ" name="Association_10" memberEnd="_qfBV0M0bEeaffpQUUdKTAQ _qfIDgM0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qfIDgM0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qfBV0M0bEeaffpQUUdKTAQ" name="" visibility="public" type="_q3PokM0bEeaffpQUUdKTAQ" association="_qfAHsM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qfEZIc0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qfEZIM0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qfIDgM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_rFXkIM0bEeaffpQUUdKTAQ" association="_qfAHsM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qfMU8M0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qfLt4M0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qfOxMM0bEeaffpQUUdKTAQ" name="Association_12" memberEnd="_qfP_UM0bEeaffpQUUdKTAQ _qfYiMM0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qfYiMM0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qfP_UM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_q2Ys8M0bEeaffpQUUdKTAQ" association="_qfOxMM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qfTpsM0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qfTCoM0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qfYiMM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_rFXkIM0bEeaffpQUUdKTAQ" association="_qfOxMM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qfa-cM0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qfaXYM0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qfczoM0bEeaffpQUUdKTAQ" name="Association_13" memberEnd="_qfeBwM0bEeaffpQUUdKTAQ _qfjhUM0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qfjhUM0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qfeBwM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_q6nssM0bEeaffpQUUdKTAQ" association="_qfczoM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qff28M0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qffP4M0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qfjhUM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_qzkpgM0bEeaffpQUUdKTAQ" association="_qfczoM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qfmkoc0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qfmkoM0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qfqPAM0bEeaffpQUUdKTAQ" name="Association_14" memberEnd="_qfrdIM0bEeaffpQUUdKTAQ _qfyK0M0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qfyK0M0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qfrdIM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_q1QrkM0bEeaffpQUUdKTAQ" association="_qfqPAM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qfvHgM0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qfugcM0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qfyK0M0bEeaffpQUUdKTAQ" name="" visibility="public" type="_qzkpgM0bEeaffpQUUdKTAQ" association="_qfqPAM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qfzY8c0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qfzY8M0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qf11MM0bEeaffpQUUdKTAQ" name="Association_15" memberEnd="_qf3DUM0bEeaffpQUUdKTAQ _qf6GoM0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qf6GoM0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qf3DUM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_q1QrkM0bEeaffpQUUdKTAQ" association="_qf11MM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qf4RcM0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qf3qYM0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qf6GoM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_qkNX0M0bEeaffpQUUdKTAQ" association="_qf11MM0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qf7Uwc0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qf7UwM0bEeaffpQUUdKTAQ"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qf9J8M0bEeaffpQUUdKTAQ" name="Association_16" memberEnd="_qf-YEM0bEeaffpQUUdKTAQ _qgEesM0bEeaffpQUUdKTAQ" navigableOwnedEnd="_qgEesM0bEeaffpQUUdKTAQ">
+    <ownedEnd xmi:id="_qf-YEM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_rFXkIM0bEeaffpQUUdKTAQ" association="_qf9J8M0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qf_mMc0bEeaffpQUUdKTAQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qf_mMM0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qgEesM0bEeaffpQUUdKTAQ" name="" visibility="public" type="_qzkpgM0bEeaffpQUUdKTAQ" association="_qf9J8M0bEeaffpQUUdKTAQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qgFs0c0bEeaffpQUUdKTAQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qgFs0M0bEeaffpQUUdKTAQ" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_qkNX0M0bEeaffpQUUdKTAQ" name="DialysisPatient">
+    <ownedAttribute xmi:id="_qpHtAM0bEeaffpQUUdKTAQ" name="FirstName" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qpxNQM0bEeaffpQUUdKTAQ" name="LastName" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qqCTAM0bEeaffpQUUdKTAQ" name="FathersName" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qqPHUM0bEeaffpQUUdKTAQ" name="BirthDate" visibility="private" type="_qqT_0M0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qqeX4M0bEeaffpQUUdKTAQ" name="BirthPlace" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qqqlIM0bEeaffpQUUdKTAQ" name="Gender" visibility="private" type="_qqwEsM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qq7q4M0bEeaffpQUUdKTAQ" name="AdmissionDate" visibility="private" type="_qqT_0M0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qrDmsM0bEeaffpQUUdKTAQ" name="MaritalStatus" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qrLigM0bEeaffpQUUdKTAQ" name="Occupation" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qrRpIM0bEeaffpQUUdKTAQ" name="Education" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qrXvwM0bEeaffpQUUdKTAQ" name="Address" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qredcM0bEeaffpQUUdKTAQ" name="Tel" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qrkkEM0bEeaffpQUUdKTAQ" name="AttendingPhysician" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qrtG8M0bEeaffpQUUdKTAQ" name="GeneralCondition" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qrzNkM0bEeaffpQUUdKTAQ" name="MentalCondition" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qr6iUM0bEeaffpQUUdKTAQ" name="SmokingRecords" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qsAo8M0bEeaffpQUUdKTAQ" name="ESRD" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qsHWoM0bEeaffpQUUdKTAQ" name="ClinicalRecords" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qsNdQM0bEeaffpQUUdKTAQ" name="VascularAccessDetails" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qsUyAM0bEeaffpQUUdKTAQ" name="ViralMarkers" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qsaRkM0bEeaffpQUUdKTAQ" name="Description" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_qtG1IM0bEeaffpQUUdKTAQ" name="Add" visibility="public" bodyCondition="_qtqOwM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_qtqOwM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_quSg4M0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_quswkM0bEeaffpQUUdKTAQ" name="Delete" visibility="public" bodyCondition="_quxpEM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_quxpEM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_quyQIM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_qu490M0bEeaffpQUUdKTAQ" name="Edit" visibility="public" bodyCondition="_qu92UM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_qu92UM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_qu-dYM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_qvCu0M0bEeaffpQUUdKTAQ" name="Print" visibility="public" bodyCondition="_qvGZMM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_qvGZMM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_qvHAQM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_qpbPAM0bEeaffpQUUdKTAQ" name="String"/>
+  <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_qqT_0M0bEeaffpQUUdKTAQ" name="Date"/>
+  <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_qqwEsM0bEeaffpQUUdKTAQ" name="byte"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_qvVpwM0bEeaffpQUUdKTAQ" name="DialysisDoctor">
+    <generalization xmi:id="_qv3OMM0bEeaffpQUUdKTAQ" general="_q8c4sM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_qxLc0M0bEeaffpQUUdKTAQ" name="EditDialysisSession" visibility="public" bodyCondition="_qxWb8M0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_qxWb8M0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_qxXqEM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_qx4ncM0bEeaffpQUUdKTAQ" name="ConsumedGoodsItem">
+    <ownedAttribute xmi:id="_qyUFQM0bEeaffpQUUdKTAQ" name="Quantity" visibility="private" type="_qyXIkM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_qycoIM0bEeaffpQUUdKTAQ" name="Cost" visibility="private" type="_qyXIkM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_qy2QwM0bEeaffpQUUdKTAQ" name="Add" visibility="public" bodyCondition="_qy4tAM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_qy4tAM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_qy5UEM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_qy-MkM0bEeaffpQUUdKTAQ" name="Edit" visibility="public" bodyCondition="_qzB28M0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_qzB28M0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_qzDFEM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_qzIkoM0bEeaffpQUUdKTAQ" name="Delete" visibility="public" bodyCondition="_qzNdIM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_qzNdIM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_qzOEMM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_qzS8sM0bEeaffpQUUdKTAQ" name="CalculateTotalCost" visibility="public" bodyCondition="_qzX1MM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_qzX1MM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_qzYcQM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_qyXIkM0bEeaffpQUUdKTAQ" name="int"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_qzkpgM0bEeaffpQUUdKTAQ" name="InfirmaryReception">
+    <ownedAttribute xmi:id="_qz9EAM0bEeaffpQUUdKTAQ" name="Date" visibility="private" type="_qqT_0M0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q0DKoM0bEeaffpQUUdKTAQ" name="Time" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q0J4UM0bEeaffpQUUdKTAQ" name="PatientName" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q0P-8M0bEeaffpQUUdKTAQ" name="PayableAmount" visibility="private" type="_qyXIkM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q0XTsM0bEeaffpQUUdKTAQ" name="Descriptions" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_q0z_oM0bEeaffpQUUdKTAQ" name="Submit" visibility="public" bodyCondition="_q04REM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q04REM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q044IM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_q0-XsM0bEeaffpQUUdKTAQ" name="Delete" visibility="public" bodyCondition="_q1BbAM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q1BbAM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q1CCEM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_q1QrkM0bEeaffpQUUdKTAQ" name="Receptionist">
+    <generalization xmi:id="_q1YAUM0bEeaffpQUUdKTAQ" general="_q8c4sM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_q15kwM0bEeaffpQUUdKTAQ" name="SubmitInfirmaryReception" visibility="public" bodyCondition="_q19PIM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q19PIM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q192MM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_q2CusM0bEeaffpQUUdKTAQ" name="SubmitDialysisPatient" visibility="public" bodyCondition="_q2I1UM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q2I1UM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q2JcYM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_q2Ys8M0bEeaffpQUUdKTAQ" name="InfirmaryPersonnel">
+    <generalization xmi:id="_q2gBsM0bEeaffpQUUdKTAQ" general="_q8c4sM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_q25qUM0bEeaffpQUUdKTAQ" name="PresentService" visibility="public" bodyCondition="_q2_J4M0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q2_J4M0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q2_w8M0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_q3PokM0bEeaffpQUUdKTAQ" name="Service">
+    <ownedAttribute xmi:id="_q3gHQM0bEeaffpQUUdKTAQ" name="Title" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q3m08M0bEeaffpQUUdKTAQ" name="Price" visibility="private" type="_qyXIkM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_q4C50M0bEeaffpQUUdKTAQ" name="Add" visibility="public" bodyCondition="_q4F9IM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q4F9IM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q4GkMM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_q4LcsM0bEeaffpQUUdKTAQ" name="Edit" visibility="public" bodyCondition="_q4PuIM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q4PuIM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q4Q8QM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_q4Wb0M0bEeaffpQUUdKTAQ" name="Delete" visibility="public" bodyCondition="_q4atQM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q4atQM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q4b7YM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_q4oIoM0bEeaffpQUUdKTAQ" name="ConsumableGoods">
+    <ownedAttribute xmi:id="_q5BKMM0bEeaffpQUUdKTAQ" name="Name" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q5HQ0M0bEeaffpQUUdKTAQ" name="Price" visibility="private" type="_qyXIkM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q5LiQM0bEeaffpQUUdKTAQ" name="VendorOrProvider" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q5Ro4M0bEeaffpQUUdKTAQ" name="AvailableQuantity" visibility="private" type="_qyXIkM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q5YWkM0bEeaffpQUUdKTAQ" name="PurchaseDate" visibility="private" type="_qqT_0M0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q5edMM0bEeaffpQUUdKTAQ" name="Description" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_q51CgM0bEeaffpQUUdKTAQ" name="Add" visibility="public" bodyCondition="_q53ewM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q53ewM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q54s4M0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_q5-McM0bEeaffpQUUdKTAQ" name="Edit" visibility="public" bodyCondition="_q6BPwM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q6BPwM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q6DE8M0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_q6IkgM0bEeaffpQUUdKTAQ" name="Delete" visibility="public" bodyCondition="_q6MO4M0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q6MO4M0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q6NdAM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_q6TjoM0bEeaffpQUUdKTAQ" name="Decrement" visibility="public" bodyCondition="_q6X1EM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q6X1EM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q6ZqQM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_q6nssM0bEeaffpQUUdKTAQ" name="InsuranceOrganization">
+    <ownedAttribute xmi:id="_q68c0M0bEeaffpQUUdKTAQ" name="OrganizationCode" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q7B8YM0bEeaffpQUUdKTAQ" name="OrganizationName" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q7a98M0bEeaffpQUUdKTAQ" name="Rate" visibility="private" type="_qyXIkM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_q73C0M0bEeaffpQUUdKTAQ" name="Add" visibility="public" bodyCondition="_q76GIM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q76GIM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q76tMM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_q8AMwM0bEeaffpQUUdKTAQ" name="Edit" visibility="public" bodyCondition="_q8D3IM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q8D3IM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q8EeMM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_q8JWsM0bEeaffpQUUdKTAQ" name="Delete" visibility="public" bodyCondition="_q8MaAM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q8MaAM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q8NBEM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_q8c4sM0bEeaffpQUUdKTAQ" name="Personnel">
+    <ownedAttribute xmi:id="_q8zeAM0bEeaffpQUUdKTAQ" name="PersonelCode" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q86LsM0bEeaffpQUUdKTAQ" name="FirstName" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q8_EMM0bEeaffpQUUdKTAQ" name="LastName" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q9D8sM0bEeaffpQUUdKTAQ" name="Position" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_q9eMYM0bEeaffpQUUdKTAQ" name="Add" visibility="public" bodyCondition="_q9gooM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q9gooM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q9hPsM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_q9nWUM0bEeaffpQUUdKTAQ" name="Delete" visibility="public" bodyCondition="_q9rAsM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q9rAsM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q9rAsc0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_q9xuYM0bEeaffpQUUdKTAQ" name="Edit" visibility="public" bodyCondition="_q91YwM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q91YwM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q91_0M0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_q98GcM0bEeaffpQUUdKTAQ" name="Print" visibility="public" bodyCondition="_q9_w0M0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_q9_w0M0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_q-BmAM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_q-OaUM0bEeaffpQUUdKTAQ" name="DialysisSession">
+    <ownedAttribute xmi:id="_q_QVEM0bEeaffpQUUdKTAQ" name="Diagnosis" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q_WbsM0bEeaffpQUUdKTAQ" name="WeightBD" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q_eXgM0bEeaffpQUUdKTAQ" name="BloodPresureBD" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q_lsQM0bEeaffpQUUdKTAQ" name="TempratureBD" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q_sZ8M0bEeaffpQUUdKTAQ" name="PulseRateBD" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q_zusM0bEeaffpQUUdKTAQ" name="BreathingRateBD" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_q_7DcM0bEeaffpQUUdKTAQ" name="WeightAD" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rABxIM0bEeaffpQUUdKTAQ" name="BloodPresureAD" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rAN-YM0bEeaffpQUUdKTAQ" name="TempratureAD" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rAcA0M0bEeaffpQUUdKTAQ" name="PulseRateAD" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rApcMM0bEeaffpQUUdKTAQ" name="BreathingRateAD" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rA4swM0bEeaffpQUUdKTAQ" name="VascularAccessDetainls" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rBH9UM0bEeaffpQUUdKTAQ" name="DialysisMachineDetails" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rBZDEM0bEeaffpQUUdKTAQ" name="DialyzerType" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rBlQUM0bEeaffpQUUdKTAQ" name="DryWeight" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rBuaQM0bEeaffpQUUdKTAQ" name="BloodFlow" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rB29IM0bEeaffpQUUdKTAQ" name="DialysateFlow" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rB9q0M0bEeaffpQUUdKTAQ" name="BufferType" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rCFmoM0bEeaffpQUUdKTAQ" name="TMP" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rCLtQM0bEeaffpQUUdKTAQ" name="DialysateTeperature" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rCUQIM0bEeaffpQUUdKTAQ" name="ViralMarkers" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rCZIoM0bEeaffpQUUdKTAQ" name="SodiumCon" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rCgdYM0bEeaffpQUUdKTAQ" name="ArterialPressure" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rCnLEM0bEeaffpQUUdKTAQ" name="VenousPressure" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rCvG4M0bEeaffpQUUdKTAQ" name="Profile" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rC10kM0bEeaffpQUUdKTAQ" name="DoctorsNotes" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rC9wYM0bEeaffpQUUdKTAQ" name="NursesObservation" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_rDc4kM0bEeaffpQUUdKTAQ" name="Add" visibility="public" bodyCondition="_rDetwM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rDetwM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rDf74M0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_rDlbcM0bEeaffpQUUdKTAQ" name="Edit" visibility="public" bodyCondition="_rDpF0M0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rDpF0M0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rDps4M0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_rDvzgM0bEeaffpQUUdKTAQ" name="Delete" visibility="public" bodyCondition="_rD0E8M0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rD0E8M0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rD0sAM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_rD7ZsM0bEeaffpQUUdKTAQ" name="Print" visibility="public" bodyCondition="_rD-dAM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rD-dAM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rD_EEM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_q_ZfAM0bEeaffpQUUdKTAQ" name="float"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_rEO7sM0bEeaffpQUUdKTAQ" name="DialysisNurse">
+    <generalization xmi:id="_rEW3gM0bEeaffpQUUdKTAQ" general="_q8c4sM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_rE2mwM0bEeaffpQUUdKTAQ" name="SubmitHourlyEvaluation" visibility="public" bodyCondition="_rE64MM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rE64MM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rE7fQM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_rFBl4M0bEeaffpQUUdKTAQ" name="SubmitDialysisSession" visibility="public" bodyCondition="_rFHFcM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rFHFcM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rFHsgM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_rFXkIM0bEeaffpQUUdKTAQ" name="ServiceItem">
+    <ownedAttribute xmi:id="_rFrGIM0bEeaffpQUUdKTAQ" name="Cost" visibility="private" type="_qyXIkM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rFvXkM0bEeaffpQUUdKTAQ" name="Descriptions" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_rGPG0M0bEeaffpQUUdKTAQ" name="Add" visibility="public" bodyCondition="_rGRjEM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rGRjEM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rGSKIM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_rGYQwM0bEeaffpQUUdKTAQ" name="Edit" visibility="public" bodyCondition="_rGb7IM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rGb7IM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rGciMM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_rGio0M0bEeaffpQUUdKTAQ" name="Delete" visibility="public" bodyCondition="_rGmTMM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rGmTMM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rGm6QM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_rGtn8M0bEeaffpQUUdKTAQ" name="CalculatePayableAmount" visibility="public" bodyCondition="_rGygcM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rGygcM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rGzHgM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_rHE0UM0bEeaffpQUUdKTAQ" name="HourlyEvaluation">
+    <ownedAttribute xmi:id="_rHV6EM0bEeaffpQUUdKTAQ" name="BloodPressure" visibility="private" type="_q_ZfAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rHcAsM0bEeaffpQUUdKTAQ" name="SideEffects" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rHjVcM0bEeaffpQUUdKTAQ" name="MedicalActions" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedAttribute xmi:id="_rH6h0M0bEeaffpQUUdKTAQ" name="Time" visibility="private" type="_qpbPAM0bEeaffpQUUdKTAQ"/>
+    <ownedOperation xmi:id="_rITjYM0bEeaffpQUUdKTAQ" name="Add" visibility="public" bodyCondition="_rIWmsM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rIWmsM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rIXNwM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_rIdUYM0bEeaffpQUUdKTAQ" name="Edit" visibility="public" bodyCondition="_rIgXsM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rIgXsM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rIg-wM0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+    <ownedOperation xmi:id="_rInFYM0bEeaffpQUUdKTAQ" name="Delete" visibility="public" bodyCondition="_rIqvwM0bEeaffpQUUdKTAQ">
+      <ownedRule xmi:id="_rIqvwM0bEeaffpQUUdKTAQ">
+        <specification xmi:type="uml:LiteralString" xmi:id="_rIrW0M0bEeaffpQUUdKTAQ" name="TemplateBody" value="%DefaultBody%"/>
+      </ownedRule>
+    </ownedOperation>
+  </packagedElement>
+</uml:Model>
